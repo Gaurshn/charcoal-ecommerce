@@ -1,0 +1,1564 @@
+{
+  "products": [
+    {
+      "id": "charcoal001",
+      "name": "Type 1 Charcoal",
+      "category": {
+        "main": "Lump",
+        "sub": "Indoor Heating",
+        "tags": ["eco", "premium", "dense"]
+      },
+      "specifications": {
+        "weight": "9kg",
+        "burnTime": "3 hours",
+        "material": "Mango Wood",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Plastic Wrap",
+            "size": "Large"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 144,
+        "warehouses": {
+          "north": 44,
+          "south": 32,
+          "west": 43,
+          "online": 11
+        }
+      },
+      "price": {
+        "original": 1270,
+        "discount": 652,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user1",
+          "rating": 5,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user2",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "9.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal002",
+      "name": "Type 2 Charcoal",
+      "category": {
+        "main": "Log",
+        "sub": "Grilling",
+        "tags": ["eco", "long burn", "dense"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "3 hours",
+        "material": "Oak",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Heavy",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 71,
+        "warehouses": {
+          "north": 37,
+          "south": 28,
+          "west": 37,
+          "online": 33
+        }
+      },
+      "price": {
+        "original": 1024,
+        "discount": 817,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user2",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user3",
+          "rating": 5,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal003",
+      "name": "Type 3 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Indoor Heating",
+        "tags": ["natural", "long burn", "dense"]
+      },
+      "specifications": {
+        "weight": "5kg",
+        "burnTime": "5 hours",
+        "material": "Mango Wood",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Large"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 157,
+        "warehouses": {
+          "north": 41,
+          "south": 50,
+          "west": 34,
+          "online": 29
+        }
+      },
+      "price": {
+        "original": 722,
+        "discount": 946,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user3",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user4",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "5.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal004",
+      "name": "Type 4 Charcoal",
+      "category": {
+        "main": "Log",
+        "sub": "Indoor Heating",
+        "tags": ["dense", "natural", "eco"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "5 hours",
+        "material": "Mango Wood",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Plastic Wrap",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 75,
+        "warehouses": {
+          "north": 34,
+          "south": 18,
+          "west": 11,
+          "online": 22
+        }
+      },
+      "price": {
+        "original": 1056,
+        "discount": 794,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user4",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user5",
+          "rating": 3,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal005",
+      "name": "Type 5 Charcoal",
+      "category": {
+        "main": "Lump",
+        "sub": "Grilling",
+        "tags": ["premium", "dense", "eco"]
+      },
+      "specifications": {
+        "weight": "5kg",
+        "burnTime": "3 hours",
+        "material": "Teak",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Heavy",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 137,
+        "warehouses": {
+          "north": 31,
+          "south": 29,
+          "west": 19,
+          "online": 49
+        }
+      },
+      "price": {
+        "original": 1066,
+        "discount": 708,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user5",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user6",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "5.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal006",
+      "name": "Type 6 Charcoal",
+      "category": {
+        "main": "Lump",
+        "sub": "Grilling",
+        "tags": ["premium", "long burn", "eco"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "3 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 192,
+        "warehouses": {
+          "north": 16,
+          "south": 19,
+          "west": 20,
+          "online": 26
+        }
+      },
+      "price": {
+        "original": 1107,
+        "discount": 903,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user6",
+          "rating": 5,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user7",
+          "rating": 5,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal007",
+      "name": "Type 7 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Barbecue",
+        "tags": ["eco", "premium", "dense"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "7 hours",
+        "material": "Teak",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Heavy",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 78,
+        "warehouses": {
+          "north": 13,
+          "south": 44,
+          "west": 32,
+          "online": 29
+        }
+      },
+      "price": {
+        "original": 863,
+        "discount": 812,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user7",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user8",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal008",
+      "name": "Type 8 Charcoal",
+      "category": {
+        "main": "Lump",
+        "sub": "Grilling",
+        "tags": ["dense", "eco", "premium"]
+      },
+      "specifications": {
+        "weight": "9kg",
+        "burnTime": "5 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 83,
+        "warehouses": {
+          "north": 45,
+          "south": 14,
+          "west": 44,
+          "online": 20
+        }
+      },
+      "price": {
+        "original": 1205,
+        "discount": 941,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user8",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user9",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "9.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal009",
+      "name": "Type 9 Charcoal",
+      "category": {
+        "main": "Log",
+        "sub": "Indoor Heating",
+        "tags": ["natural", "long burn", "eco"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "4 hours",
+        "material": "Teak",
+        "features": {
+          "smokeLevel": "High",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 98,
+        "warehouses": {
+          "north": 28,
+          "south": 21,
+          "west": 44,
+          "online": 45
+        }
+      },
+      "price": {
+        "original": 1069,
+        "discount": 779,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user9",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user10",
+          "rating": 3,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal010",
+      "name": "Type 10 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Grilling",
+        "tags": ["dense", "long burn", "natural"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "4 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "High",
+          "ashResidue": "Heavy",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 151,
+        "warehouses": {
+          "north": 47,
+          "south": 10,
+          "west": 12,
+          "online": 22
+        }
+      },
+      "price": {
+        "original": 962,
+        "discount": 634,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user10",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user11",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal011",
+      "name": "Type 11 Charcoal",
+      "category": {
+        "main": "Lump",
+        "sub": "Barbecue",
+        "tags": ["long burn", "natural", "eco"]
+      },
+      "specifications": {
+        "weight": "5kg",
+        "burnTime": "7 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Heavy",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 96,
+        "warehouses": {
+          "north": 25,
+          "south": 17,
+          "west": 16,
+          "online": 14
+        }
+      },
+      "price": {
+        "original": 817,
+        "discount": 600,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user11",
+          "rating": 5,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user12",
+          "rating": 3,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "5.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal012",
+      "name": "Type 12 Charcoal",
+      "category": {
+        "main": "Log",
+        "sub": "Indoor Heating",
+        "tags": ["long burn", "natural", "dense"]
+      },
+      "specifications": {
+        "weight": "3kg",
+        "burnTime": "7 hours",
+        "material": "Teak",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Large"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 177,
+        "warehouses": {
+          "north": 25,
+          "south": 15,
+          "west": 14,
+          "online": 24
+        }
+      },
+      "price": {
+        "original": 700,
+        "discount": 865,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user12",
+          "rating": 5,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user13",
+          "rating": 3,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "3.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal013",
+      "name": "Type 13 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Grilling",
+        "tags": ["dense", "natural", "premium"]
+      },
+      "specifications": {
+        "weight": "3kg",
+        "burnTime": "3 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Plastic Wrap",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 50,
+        "warehouses": {
+          "north": 33,
+          "south": 41,
+          "west": 25,
+          "online": 15
+        }
+      },
+      "price": {
+        "original": 1042,
+        "discount": 740,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user13",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user14",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "3.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal014",
+      "name": "Type 14 Charcoal",
+      "category": {
+        "main": "Lump",
+        "sub": "Indoor Heating",
+        "tags": ["premium", "eco", "natural"]
+      },
+      "specifications": {
+        "weight": "3kg",
+        "burnTime": "6 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "High",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 88,
+        "warehouses": {
+          "north": 41,
+          "south": 21,
+          "west": 28,
+          "online": 42
+        }
+      },
+      "price": {
+        "original": 933,
+        "discount": 825,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user14",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user15",
+          "rating": 3,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "3.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal015",
+      "name": "Type 15 Charcoal",
+      "category": {
+        "main": "Log",
+        "sub": "Barbecue",
+        "tags": ["dense", "natural", "premium"]
+      },
+      "specifications": {
+        "weight": "9kg",
+        "burnTime": "6 hours",
+        "material": "Mango Wood",
+        "features": {
+          "smokeLevel": "High",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Plastic Wrap",
+            "size": "Large"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 161,
+        "warehouses": {
+          "north": 18,
+          "south": 33,
+          "west": 21,
+          "online": 44
+        }
+      },
+      "price": {
+        "original": 725,
+        "discount": 740,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user15",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user16",
+          "rating": 5,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "9.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal016",
+      "name": "Type 16 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Indoor Heating",
+        "tags": ["long burn", "dense", "premium"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "3 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 104,
+        "warehouses": {
+          "north": 49,
+          "south": 34,
+          "west": 27,
+          "online": 44
+        }
+      },
+      "price": {
+        "original": 732,
+        "discount": 927,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user16",
+          "rating": 5,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user17",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal017",
+      "name": "Type 17 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Barbecue",
+        "tags": ["premium", "natural", "long burn"]
+      },
+      "specifications": {
+        "weight": "10kg",
+        "burnTime": "5 hours",
+        "material": "Mango Wood",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Moderate",
+          "packaging": {
+            "type": "Eco-bag",
+            "size": "Small"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 64,
+        "warehouses": {
+          "north": 45,
+          "south": 36,
+          "west": 16,
+          "online": 32
+        }
+      },
+      "price": {
+        "original": 987,
+        "discount": 628,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user17",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user18",
+          "rating": 3,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "10.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal018",
+      "name": "Type 18 Charcoal",
+      "category": {
+        "main": "Log",
+        "sub": "Barbecue",
+        "tags": ["premium", "natural", "long burn"]
+      },
+      "specifications": {
+        "weight": "4kg",
+        "burnTime": "4 hours",
+        "material": "Teak",
+        "features": {
+          "smokeLevel": "Medium",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Plastic Wrap",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 139,
+        "warehouses": {
+          "north": 19,
+          "south": 43,
+          "west": 42,
+          "online": 32
+        }
+      },
+      "price": {
+        "original": 1111,
+        "discount": 942,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user18",
+          "rating": 4,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user19",
+          "rating": 4,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "4.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal019",
+      "name": "Type 19 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Indoor Heating",
+        "tags": ["natural", "long burn", "premium"]
+      },
+      "specifications": {
+        "weight": "8kg",
+        "burnTime": "4 hours",
+        "material": "Bamboo",
+        "features": {
+          "smokeLevel": "High",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Plastic Wrap",
+            "size": "Large"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 134,
+        "warehouses": {
+          "north": 18,
+          "south": 33,
+          "west": 34,
+          "online": 27
+        }
+      },
+      "price": {
+        "original": 988,
+        "discount": 858,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user19",
+          "rating": 5,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user20",
+          "rating": 5,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "8.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    },
+    {
+      "id": "charcoal020",
+      "name": "Type 20 Charcoal",
+      "category": {
+        "main": "Briquette",
+        "sub": "Grilling",
+        "tags": ["eco", "long burn", "dense"]
+      },
+      "specifications": {
+        "weight": "9kg",
+        "burnTime": "3 hours",
+        "material": "Oak",
+        "features": {
+          "smokeLevel": "Low",
+          "ashResidue": "Minimal",
+          "packaging": {
+            "type": "Cloth Sack",
+            "size": "Medium"
+          }
+        }
+      },
+      "stock": {
+        "available": true,
+        "quantity": 115,
+        "warehouses": {
+          "north": 38,
+          "south": 30,
+          "west": 30,
+          "online": 17
+        }
+      },
+      "price": {
+        "original": 1065,
+        "discount": 705,
+        "currency": "INR"
+      },
+      "reviews": [
+        {
+          "user": "user20",
+          "rating": 3,
+          "comment": "Very good product.",
+          "verified": true
+        },
+        {
+          "user": "user21",
+          "rating": 5,
+          "comment": "Great for grilling!",
+          "verified": true
+        }
+      ],
+      "shipping": {
+        "weight": "9.2kg",
+        "dimensions": {
+          "height": "20cm",
+          "width": "30cm",
+          "depth": "15cm"
+        },
+        "options": [
+          {
+            "method": "Standard",
+            "time": "3-5 days"
+          },
+          {
+            "method": "Express",
+            "time": "1-2 days"
+          }
+        ]
+      },
+      "manufacturer": {
+        "name": "Moz Charcoal",
+        "location": "Nagpur, Maharashtra",
+        "certifications": ["ISO 9001", "EcoGreen", "Forest Friendly"],
+        "contact": {
+          "phone": "+91-9876543210",
+          "email": "support@mozcharcoal.in"
+        }
+      }
+    }
+  ]
+}

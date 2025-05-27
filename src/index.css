@@ -1,0 +1,58 @@
+@import "tailwindcss";
+
+body {
+  background-color: #838285;
+  font-family: "Luckiest Guy", cursive;
+  color: white;
+  overflow-x: hidden;
+}
+
+main {
+  font-family: "Luckiest Guy", cursive;
+  color: white;
+}
+
+.bg-mountain {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("/lumpcharcoal.png"); /* works if image is in /public/assets/ */
+}
+
+@theme {
+  --color-charcoal-900: #838285;
+  --color-orange-900: #fe6a00;
+  --color-orange-light: #fe6a00;
+  --color-slate-black: #25211d;
+}
+
+@media (min-width: 640px) {
+  .bg-mountain {
+    height: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .bg-mountain {
+    height: 600px;
+  }
+}
+
+.bg-hero1 {
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("/H.png");
+}
+
+@media (min-width: 640px) {
+  .bg-hero1 {
+    height: 400px;
+  }
+}
+
+@media (min-width: 1024px) {
+  .bg-hero1 {
+    height: 700px;
+  }
+}
